@@ -1,4 +1,5 @@
-ishitatheresearchanalyst.github.io
+**ishitatheresearchanalyst.github.io**
+
 📌📌Represent India. Strengthen state-to-state relations, promote business links, facilitate cultural and people-to-people exchanges. Negotiate acceptable options to expand opportunities, implement projects, build relations.
 
 💁‍♀️Ishita is dynamic professional with a Bachelor’s degree in Electrical and Electronics Engineering (EEE) and ongoing M.Tech in Computer Science and Engineering (AI & ML). Passionate about leveraging AI and machine learning to solve real-world problems, backed by robust experience in research, internships, and impactful projects.
