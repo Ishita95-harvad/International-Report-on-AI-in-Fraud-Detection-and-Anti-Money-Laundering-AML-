@@ -3,7 +3,8 @@ International-Report-on-AI-in-Fraud-Detection-and-Anti-Money-Laundering-AML
 Workflow and Real-World Analysis: AI in Fraud Detection and Anti-Money Laundering (AML)
 This section outlines a step-by-step workflow for implementing AI in fraud detection and AML, followed by a real-world case study to illustrate its application.
 
-Workflow: AI in Fraud Detection and AML
+Workflow: Artificial Intelligence in Fraud Detection and Anti-Money Laundering
+
 Step 1: Define Objectives
 Fraud Detection: Identify and prevent unauthorized or fraudulent transactions.
 
